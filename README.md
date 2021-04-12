@@ -1,1 +1,4 @@
-# Intelligent-system-experiment
+# 说明
+此仓库用于智能系统实验代码的保存与共享，框架是pytorch
+# 实验列表
+## 异或运算
